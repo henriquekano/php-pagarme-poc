@@ -1,0 +1,9 @@
+{
+    "require": {
+    	"guzzlehttp/guzzle": "6.*",
+    	"netresearch/jsonmapper": "1.*"
+    },
+    "autoload": {
+        "psr-0": {"AppName": "src/"}
+    }
+}
